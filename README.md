@@ -23,4 +23,16 @@ My solutions to LeetCode problems in Java, covering DSA concepts, problem-solvin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0354-russian-doll-envelopes](https://github.com/Anushri-yadav/LeetCode-DSA/tree/main/0354-russian-doll-envelopes/) | Hard |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Anushri-yadav/LeetCode-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Anushri-yadav/LeetCode-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Anushri-yadav/LeetCode-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
