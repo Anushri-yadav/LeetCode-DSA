@@ -14,6 +14,7 @@ My solutions to LeetCode problems in Java, covering DSA concepts, problem-solvin
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Anushri-yadav/LeetCode-DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/Anushri-yadav/LeetCode-DSA/tree/main/0354-russian-doll-envelopes/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
@@ -31,8 +32,17 @@ My solutions to LeetCode problems in Java, covering DSA concepts, problem-solvin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anushri-yadav/LeetCode-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/Anushri-yadav/LeetCode-DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anushri-yadav/LeetCode-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Anushri-yadav/LeetCode-DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Anushri-yadav/LeetCode-DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
