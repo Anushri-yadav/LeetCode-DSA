@@ -16,6 +16,7 @@ My solutions to LeetCode problems in Java, covering DSA concepts, problem-solvin
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anushri-yadav/LeetCode-DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/Anushri-yadav/LeetCode-DSA/tree/main/0354-russian-doll-envelopes/) | Hard |
+| [0647-palindromic-substrings](https://github.com/Anushri-yadav/LeetCode-DSA/tree/main/0647-palindromic-substrings/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,6 +34,7 @@ My solutions to LeetCode problems in Java, covering DSA concepts, problem-solvin
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anushri-yadav/LeetCode-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/Anushri-yadav/LeetCode-DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0647-palindromic-substrings](https://github.com/Anushri-yadav/LeetCode-DSA/tree/main/0647-palindromic-substrings/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,6 +43,7 @@ My solutions to LeetCode problems in Java, covering DSA concepts, problem-solvin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anushri-yadav/LeetCode-DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0647-palindromic-substrings](https://github.com/Anushri-yadav/LeetCode-DSA/tree/main/0647-palindromic-substrings/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
