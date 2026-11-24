@@ -15,6 +15,7 @@ My solutions to LeetCode problems in Java, covering DSA concepts, problem-solvin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anushri-yadav/LeetCode-DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/Anushri-yadav/LeetCode-DSA/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/Anushri-yadav/LeetCode-DSA/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0647-palindromic-substrings](https://github.com/Anushri-yadav/LeetCode-DSA/tree/main/0647-palindromic-substrings/) | Medium |
 ## Sorting
@@ -48,4 +49,20 @@ My solutions to LeetCode problems in Java, covering DSA concepts, problem-solvin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anushri-yadav/LeetCode-DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Anushri-yadav/LeetCode-DSA/tree/main/0096-unique-binary-search-trees/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Anushri-yadav/LeetCode-DSA/tree/main/0096-unique-binary-search-trees/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Anushri-yadav/LeetCode-DSA/tree/main/0096-unique-binary-search-trees/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Anushri-yadav/LeetCode-DSA/tree/main/0096-unique-binary-search-trees/) | Medium |
 <!---LeetCode Topics End-->
