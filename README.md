@@ -59,6 +59,7 @@ My solutions to LeetCode problems in Java, covering DSA concepts, problem-solvin
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Anushri-yadav/LeetCode-DSA/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/Anushri-yadav/LeetCode-DSA/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/Anushri-yadav/LeetCode-DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,8 +70,17 @@ My solutions to LeetCode problems in Java, covering DSA concepts, problem-solvin
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Anushri-yadav/LeetCode-DSA/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/Anushri-yadav/LeetCode-DSA/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/Anushri-yadav/LeetCode-DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Anushri-yadav/LeetCode-DSA/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Anushri-yadav/LeetCode-DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Anushri-yadav/LeetCode-DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
