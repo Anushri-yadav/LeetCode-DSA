@@ -8,6 +8,7 @@ My solutions to LeetCode problems in Java, covering DSA concepts, problem-solvin
 | ------- | ------- |
 | [0312-burst-balloons](https://github.com/Anushri-yadav/LeetCode-DSA/tree/main/0312-burst-balloons/) | Hard |
 | [0354-russian-doll-envelopes](https://github.com/Anushri-yadav/LeetCode-DSA/tree/main/0354-russian-doll-envelopes/) | Hard |
+| [0875-koko-eating-bananas](https://github.com/Anushri-yadav/LeetCode-DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Anushri-yadav/LeetCode-DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Anushri-yadav/LeetCode-DSA/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [2906-construct-product-matrix](https://github.com/Anushri-yadav/LeetCode-DSA/tree/main/2906-construct-product-matrix/) | Medium |
@@ -15,6 +16,7 @@ My solutions to LeetCode problems in Java, covering DSA concepts, problem-solvin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0354-russian-doll-envelopes](https://github.com/Anushri-yadav/LeetCode-DSA/tree/main/0354-russian-doll-envelopes/) | Hard |
+| [0875-koko-eating-bananas](https://github.com/Anushri-yadav/LeetCode-DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Anushri-yadav/LeetCode-DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
