@@ -8,6 +8,7 @@ My solutions to LeetCode problems in Java, covering DSA concepts, problem-solvin
 | ------- | ------- |
 | [0312-burst-balloons](https://github.com/Anushri-yadav/LeetCode-DSA/tree/main/0312-burst-balloons/) | Hard |
 | [0354-russian-doll-envelopes](https://github.com/Anushri-yadav/LeetCode-DSA/tree/main/0354-russian-doll-envelopes/) | Hard |
+| [2906-construct-product-matrix](https://github.com/Anushri-yadav/LeetCode-DSA/tree/main/2906-construct-product-matrix/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,4 +91,12 @@ My solutions to LeetCode problems in Java, covering DSA concepts, problem-solvin
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Anushri-yadav/LeetCode-DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/Anushri-yadav/LeetCode-DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2906-construct-product-matrix](https://github.com/Anushri-yadav/LeetCode-DSA/tree/main/2906-construct-product-matrix/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2906-construct-product-matrix](https://github.com/Anushri-yadav/LeetCode-DSA/tree/main/2906-construct-product-matrix/) | Medium |
 <!---LeetCode Topics End-->
