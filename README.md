@@ -91,6 +91,7 @@ My solutions to LeetCode problems in Java, covering DSA concepts, problem-solvin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/Anushri-yadav/LeetCode-DSA/tree/main/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/Anushri-yadav/LeetCode-DSA/tree/main/0052-n-queens-ii/) | Hard |
 | [0095-unique-binary-search-trees-ii](https://github.com/Anushri-yadav/LeetCode-DSA/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -114,4 +115,5 @@ My solutions to LeetCode problems in Java, covering DSA concepts, problem-solvin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/Anushri-yadav/LeetCode-DSA/tree/main/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/Anushri-yadav/LeetCode-DSA/tree/main/0052-n-queens-ii/) | Hard |
 <!---LeetCode Topics End-->
