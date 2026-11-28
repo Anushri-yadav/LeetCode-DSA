@@ -6,6 +6,7 @@ My solutions to LeetCode problems in Java, covering DSA concepts, problem-solvin
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0051-n-queens](https://github.com/Anushri-yadav/LeetCode-DSA/tree/main/0051-n-queens/) | Hard |
 | [0312-burst-balloons](https://github.com/Anushri-yadav/LeetCode-DSA/tree/main/0312-burst-balloons/) | Hard |
 | [0354-russian-doll-envelopes](https://github.com/Anushri-yadav/LeetCode-DSA/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/Anushri-yadav/LeetCode-DSA/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -89,6 +90,7 @@ My solutions to LeetCode problems in Java, covering DSA concepts, problem-solvin
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0051-n-queens](https://github.com/Anushri-yadav/LeetCode-DSA/tree/main/0051-n-queens/) | Hard |
 | [0095-unique-binary-search-trees-ii](https://github.com/Anushri-yadav/LeetCode-DSA/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -108,4 +110,8 @@ My solutions to LeetCode problems in Java, covering DSA concepts, problem-solvin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2906-construct-product-matrix](https://github.com/Anushri-yadav/LeetCode-DSA/tree/main/2906-construct-product-matrix/) | Medium |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/Anushri-yadav/LeetCode-DSA/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
